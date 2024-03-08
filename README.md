@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, Soy Gael</h1>
+<h1 align="center">Hola, soy Gael</h1>
 <h4 align="center">Estudiante en la poderosa UDG
 </div>
 
