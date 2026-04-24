@@ -1,10 +1,1 @@
-<div align="center">
-<h1 align="center">Hola, soy Gael</h1>
-<h4 align="center">Estudiante en la poderosa UDG
-</div>
-
-<h4 align="center">Estudiante de Ing en Comp. Desarrollador (Lenguajes de Programación C++ y Python)
-</div>
-</div>
-
-<h1 align="center"><img width="150" src="https://media1.tenor.com/m/88_FwmWEHIoAAAAd/cat-stare.gif"> </h1>
+[![Spotify](https://img.shields.io/badge/14--14-Peso_Pluma-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-es/track/5LW4Z3Mz4CUliB4b6YyC7K?si=e887b2c46df84be4)
