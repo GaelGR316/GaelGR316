@@ -1,0 +1,7 @@
+<svg width="80" height="40" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0"  y="10" width="10" height="20" fill="#1DB954"><animate attributeName="height" values="20;5;28;10;20"  dur="0.8s" repeatCount="indefinite"/><animate attributeName="y" values="10;25;6;20;10"  dur="0.8s" repeatCount="indefinite"/></rect>
+  <rect x="14" y="5"  width="10" height="30" fill="#1DB954"><animate attributeName="height" values="30;10;22;6;30"  dur="0.6s" repeatCount="indefinite"/><animate attributeName="y" values="5;20;12;28;5"   dur="0.6s" repeatCount="indefinite"/></rect>
+  <rect x="28" y="8"  width="10" height="24" fill="#1DB954"><animate attributeName="height" values="24;8;30;14;24"  dur="1s"   repeatCount="indefinite"/><animate attributeName="y" values="8;24;5;18;8"    dur="1s"   repeatCount="indefinite"/></rect>
+  <rect x="42" y="12" width="10" height="16" fill="#1DB954"><animate attributeName="height" values="16;30;8;26;16"  dur="0.7s" repeatCount="indefinite"/><animate attributeName="y" values="12;5;26;7;12"   dur="0.7s" repeatCount="indefinite"/></rect>
+  <rect x="56" y="6"  width="10" height="28" fill="#1DB954"><animate attributeName="height" values="28;12;20;6;28"  dur="0.9s" repeatCount="indefinite"/><animate attributeName="y" values="6;18;10;28;6"   dur="0.9s" repeatCount="indefinite"/></rect>
+</svg>
