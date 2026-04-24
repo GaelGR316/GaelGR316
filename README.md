@@ -5,7 +5,7 @@
     </td>
     <td>
       <img src="https://readme-typing-svg.demolab.com/?lines=14-14&font=Fira+Code&size=28&weight=700&color=FFFFFF&width=250&height=45&pause=1000&repeat=true" />
-      <p><b>Peso Pluma</b> &nbsp; <img src="equalizer.svg" height="20" align="center"/></p>
+      <p><b>Peso Pluma</b> &nbsp; <img src="Equalizer.svg" height="20" align="center"/></p>
       <a href="https://open.spotify.com/intl-es/track/5LW4Z3Mz4CUliB4b6YyC7K?si=c26d9edc7770498e">
         <img src="https://img.shields.io/badge/▶_Escuchar_en_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
       </a>
